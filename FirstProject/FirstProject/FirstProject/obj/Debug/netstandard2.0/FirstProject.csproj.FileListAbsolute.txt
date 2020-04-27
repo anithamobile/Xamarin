@@ -1,0 +1,14 @@
+C:\Users\Gopinath\source\repos\FirstProject\FirstProject\FirstProject\bin\Debug\netstandard2.0\FirstProject.deps.json
+C:\Users\Gopinath\source\repos\FirstProject\FirstProject\FirstProject\bin\Debug\netstandard2.0\FirstProject.dll
+C:\Users\Gopinath\source\repos\FirstProject\FirstProject\FirstProject\bin\Debug\netstandard2.0\ref\FirstProject.dll
+C:\Users\Gopinath\source\repos\FirstProject\FirstProject\FirstProject\bin\Debug\netstandard2.0\FirstProject.pdb
+C:\Users\Gopinath\source\repos\FirstProject\FirstProject\FirstProject\obj\Debug\netstandard2.0\FirstProject.csprojAssemblyReference.cache
+C:\Users\Gopinath\source\repos\FirstProject\FirstProject\FirstProject\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Gopinath\source\repos\FirstProject\FirstProject\FirstProject\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Gopinath\source\repos\FirstProject\FirstProject\FirstProject\obj\Debug\netstandard2.0\FirstProject.csproj.CoreCompileInputs.cache
+C:\Users\Gopinath\source\repos\FirstProject\FirstProject\FirstProject\obj\Debug\netstandard2.0\FirstProject.AssemblyInfoInputs.cache
+C:\Users\Gopinath\source\repos\FirstProject\FirstProject\FirstProject\obj\Debug\netstandard2.0\FirstProject.AssemblyInfo.cs
+C:\Users\Gopinath\source\repos\FirstProject\FirstProject\FirstProject\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Gopinath\source\repos\FirstProject\FirstProject\FirstProject\obj\Debug\netstandard2.0\FirstProject.dll
+C:\Users\Gopinath\source\repos\FirstProject\FirstProject\FirstProject\obj\Debug\netstandard2.0\ref\FirstProject.dll
+C:\Users\Gopinath\source\repos\FirstProject\FirstProject\FirstProject\obj\Debug\netstandard2.0\FirstProject.pdb
