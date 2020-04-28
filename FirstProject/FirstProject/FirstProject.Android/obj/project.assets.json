@@ -1940,11 +1940,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gopinath\\source\\repos\\FirstProject\\FirstProject\\FirstProject.Android\\FirstProject.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Gopinath\\Documents\\Anitha\\Github\\Xamarin\\FirstProject\\FirstProject\\FirstProject.Android\\FirstProject.Android.csproj",
       "projectName": "FirstProject.Android",
-      "projectPath": "C:\\Users\\Gopinath\\source\\repos\\FirstProject\\FirstProject\\FirstProject.Android\\FirstProject.Android.csproj",
+      "projectPath": "C:\\Users\\Gopinath\\Documents\\Anitha\\Github\\Xamarin\\FirstProject\\FirstProject\\FirstProject.Android\\FirstProject.Android.csproj",
       "packagesPath": "C:\\Users\\Gopinath\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gopinath\\source\\repos\\FirstProject\\FirstProject\\FirstProject.Android\\obj\\",
+      "outputPath": "C:\\Users\\Gopinath\\Documents\\Anitha\\Github\\Xamarin\\FirstProject\\FirstProject\\FirstProject.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1965,8 +1965,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\Gopinath\\source\\repos\\FirstProject\\FirstProject\\FirstProject\\FirstProject.csproj": {
-              "projectPath": "C:\\Users\\Gopinath\\source\\repos\\FirstProject\\FirstProject\\FirstProject\\FirstProject.csproj"
+            "C:\\Users\\Gopinath\\Documents\\Anitha\\Github\\Xamarin\\FirstProject\\FirstProject\\FirstProject\\FirstProject.csproj": {
+              "projectPath": "C:\\Users\\Gopinath\\Documents\\Anitha\\Github\\Xamarin\\FirstProject\\FirstProject\\FirstProject\\FirstProject.csproj"
             }
           }
         }

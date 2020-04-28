@@ -575,11 +575,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gopinath\\source\\repos\\FirstProject\\FirstProject\\FirstProject\\FirstProject.csproj",
+      "projectUniqueName": "C:\\Users\\Gopinath\\Documents\\Anitha\\Github\\Xamarin\\FirstProject\\FirstProject\\FirstProject\\FirstProject.csproj",
       "projectName": "FirstProject",
-      "projectPath": "C:\\Users\\Gopinath\\source\\repos\\FirstProject\\FirstProject\\FirstProject\\FirstProject.csproj",
+      "projectPath": "C:\\Users\\Gopinath\\Documents\\Anitha\\Github\\Xamarin\\FirstProject\\FirstProject\\FirstProject\\FirstProject.csproj",
       "packagesPath": "C:\\Users\\Gopinath\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gopinath\\source\\repos\\FirstProject\\FirstProject\\FirstProject\\obj\\",
+      "outputPath": "C:\\Users\\Gopinath\\Documents\\Anitha\\Github\\Xamarin\\FirstProject\\FirstProject\\FirstProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

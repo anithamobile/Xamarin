@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gopinath\\source\\repos\\FirstProject\\FirstProject\\FirstProject.iOS\\FirstProject.iOS.csproj": {}
+    "C:\\Users\\Gopinath\\Documents\\Anitha\\Github\\Xamarin\\FirstProject\\FirstProject\\FirstProject.iOS\\FirstProject.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gopinath\\source\\repos\\FirstProject\\FirstProject\\FirstProject.iOS\\FirstProject.iOS.csproj": {
+    "C:\\Users\\Gopinath\\Documents\\Anitha\\Github\\Xamarin\\FirstProject\\FirstProject\\FirstProject.iOS\\FirstProject.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gopinath\\source\\repos\\FirstProject\\FirstProject\\FirstProject.iOS\\FirstProject.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\Gopinath\\Documents\\Anitha\\Github\\Xamarin\\FirstProject\\FirstProject\\FirstProject.iOS\\FirstProject.iOS.csproj",
         "projectName": "FirstProject.iOS",
-        "projectPath": "C:\\Users\\Gopinath\\source\\repos\\FirstProject\\FirstProject\\FirstProject.iOS\\FirstProject.iOS.csproj",
+        "projectPath": "C:\\Users\\Gopinath\\Documents\\Anitha\\Github\\Xamarin\\FirstProject\\FirstProject\\FirstProject.iOS\\FirstProject.iOS.csproj",
         "packagesPath": "C:\\Users\\Gopinath\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gopinath\\source\\repos\\FirstProject\\FirstProject\\FirstProject.iOS\\obj\\",
+        "outputPath": "C:\\Users\\Gopinath\\Documents\\Anitha\\Github\\Xamarin\\FirstProject\\FirstProject\\FirstProject.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\Gopinath\\source\\repos\\FirstProject\\FirstProject\\FirstProject\\FirstProject.csproj": {
-                "projectPath": "C:\\Users\\Gopinath\\source\\repos\\FirstProject\\FirstProject\\FirstProject\\FirstProject.csproj"
+              "C:\\Users\\Gopinath\\Documents\\Anitha\\Github\\Xamarin\\FirstProject\\FirstProject\\FirstProject\\FirstProject.csproj": {
+                "projectPath": "C:\\Users\\Gopinath\\Documents\\Anitha\\Github\\Xamarin\\FirstProject\\FirstProject\\FirstProject\\FirstProject.csproj"
               }
             }
           }
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\Gopinath\\source\\repos\\FirstProject\\FirstProject\\FirstProject\\FirstProject.csproj": {
+    "C:\\Users\\Gopinath\\Documents\\Anitha\\Github\\Xamarin\\FirstProject\\FirstProject\\FirstProject\\FirstProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gopinath\\source\\repos\\FirstProject\\FirstProject\\FirstProject\\FirstProject.csproj",
+        "projectUniqueName": "C:\\Users\\Gopinath\\Documents\\Anitha\\Github\\Xamarin\\FirstProject\\FirstProject\\FirstProject\\FirstProject.csproj",
         "projectName": "FirstProject",
-        "projectPath": "C:\\Users\\Gopinath\\source\\repos\\FirstProject\\FirstProject\\FirstProject\\FirstProject.csproj",
+        "projectPath": "C:\\Users\\Gopinath\\Documents\\Anitha\\Github\\Xamarin\\FirstProject\\FirstProject\\FirstProject\\FirstProject.csproj",
         "packagesPath": "C:\\Users\\Gopinath\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gopinath\\source\\repos\\FirstProject\\FirstProject\\FirstProject\\obj\\",
+        "outputPath": "C:\\Users\\Gopinath\\Documents\\Anitha\\Github\\Xamarin\\FirstProject\\FirstProject\\FirstProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

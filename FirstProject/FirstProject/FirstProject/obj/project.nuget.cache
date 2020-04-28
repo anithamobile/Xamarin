@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SWh8VTNgGSvsjI3r7/7W3P+gX9ivrphg0pdHeaeuPR3gbChTsZP0xJbqn/i1mGMoW/F+o23zwPP4+NccZSO1NA==",
+  "dgSpecHash": "XyHlmKI8BiZprVvXozd1Ge6abqlQBJah7hnBkeYDuUUNWiw5gGn9r6jqR+ZQm3lJeQE2dtoYmk8EZzou9w5MCw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gopinath\\source\\repos\\FirstProject\\FirstProject\\FirstProject\\FirstProject.csproj",
+  "projectFilePath": "C:\\Users\\Gopinath\\Documents\\Anitha\\Github\\Xamarin\\FirstProject\\FirstProject\\FirstProject\\FirstProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gopinath\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Gopinath\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

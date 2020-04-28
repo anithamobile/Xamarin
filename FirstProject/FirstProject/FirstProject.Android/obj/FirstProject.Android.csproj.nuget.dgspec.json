@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gopinath\\source\\repos\\FirstProject\\FirstProject\\FirstProject.Android\\FirstProject.Android.csproj": {}
+    "C:\\Users\\Gopinath\\Documents\\Anitha\\Github\\Xamarin\\FirstProject\\FirstProject\\FirstProject.Android\\FirstProject.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gopinath\\source\\repos\\FirstProject\\FirstProject\\FirstProject.Android\\FirstProject.Android.csproj": {
+    "C:\\Users\\Gopinath\\Documents\\Anitha\\Github\\Xamarin\\FirstProject\\FirstProject\\FirstProject.Android\\FirstProject.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gopinath\\source\\repos\\FirstProject\\FirstProject\\FirstProject.Android\\FirstProject.Android.csproj",
+        "projectUniqueName": "C:\\Users\\Gopinath\\Documents\\Anitha\\Github\\Xamarin\\FirstProject\\FirstProject\\FirstProject.Android\\FirstProject.Android.csproj",
         "projectName": "FirstProject.Android",
-        "projectPath": "C:\\Users\\Gopinath\\source\\repos\\FirstProject\\FirstProject\\FirstProject.Android\\FirstProject.Android.csproj",
+        "projectPath": "C:\\Users\\Gopinath\\Documents\\Anitha\\Github\\Xamarin\\FirstProject\\FirstProject\\FirstProject.Android\\FirstProject.Android.csproj",
         "packagesPath": "C:\\Users\\Gopinath\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gopinath\\source\\repos\\FirstProject\\FirstProject\\FirstProject.Android\\obj\\",
+        "outputPath": "C:\\Users\\Gopinath\\Documents\\Anitha\\Github\\Xamarin\\FirstProject\\FirstProject\\FirstProject.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\Users\\Gopinath\\source\\repos\\FirstProject\\FirstProject\\FirstProject\\FirstProject.csproj": {
-                "projectPath": "C:\\Users\\Gopinath\\source\\repos\\FirstProject\\FirstProject\\FirstProject\\FirstProject.csproj"
+              "C:\\Users\\Gopinath\\Documents\\Anitha\\Github\\Xamarin\\FirstProject\\FirstProject\\FirstProject\\FirstProject.csproj": {
+                "projectPath": "C:\\Users\\Gopinath\\Documents\\Anitha\\Github\\Xamarin\\FirstProject\\FirstProject\\FirstProject\\FirstProject.csproj"
               }
             }
           }
@@ -54,14 +54,14 @@
         }
       }
     },
-    "C:\\Users\\Gopinath\\source\\repos\\FirstProject\\FirstProject\\FirstProject\\FirstProject.csproj": {
+    "C:\\Users\\Gopinath\\Documents\\Anitha\\Github\\Xamarin\\FirstProject\\FirstProject\\FirstProject\\FirstProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gopinath\\source\\repos\\FirstProject\\FirstProject\\FirstProject\\FirstProject.csproj",
+        "projectUniqueName": "C:\\Users\\Gopinath\\Documents\\Anitha\\Github\\Xamarin\\FirstProject\\FirstProject\\FirstProject\\FirstProject.csproj",
         "projectName": "FirstProject",
-        "projectPath": "C:\\Users\\Gopinath\\source\\repos\\FirstProject\\FirstProject\\FirstProject\\FirstProject.csproj",
+        "projectPath": "C:\\Users\\Gopinath\\Documents\\Anitha\\Github\\Xamarin\\FirstProject\\FirstProject\\FirstProject\\FirstProject.csproj",
         "packagesPath": "C:\\Users\\Gopinath\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gopinath\\source\\repos\\FirstProject\\FirstProject\\FirstProject\\obj\\",
+        "outputPath": "C:\\Users\\Gopinath\\Documents\\Anitha\\Github\\Xamarin\\FirstProject\\FirstProject\\FirstProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -1,4 +1,5 @@
-﻿using FirstProject.ViewModel;
+﻿using FirstProject;
+using FirstProject.ViewModel;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -7,10 +8,9 @@ using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Forms;
 
-namespace FirstProject
+namespace Page_Navigation_Using_Xamarin_Forms
 {
-    // Learn more about making custom code visible in the Xamarin.Forms previewer
-    // by visiting https://aka.ms/xamarinforms-previewer
+
     [DesignTimeVisible(false)]
     public partial class MainPage : ContentPage
     {
@@ -18,8 +18,8 @@ namespace FirstProject
         public MainPage()
         {
             InitializeComponent();
-            mainVM = new MainPageVM();
-            this.BindingContext = mainVM;
+            //mainVM = new MainPageVM();
+            //this.BindingContext = mainVM;
         }
 
 
@@ -28,7 +28,8 @@ namespace FirstProject
 
             //label.Text = entry.Text;
 
-            mainVM.onButtonClicked();
+            //mainVM.onButtonClicked();
+            await Navigation.PushAsync(new SecondPage());
         }
     }
 }
